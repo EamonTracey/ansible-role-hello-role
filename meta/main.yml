@@ -1,0 +1,6 @@
+galaxy_info:
+  author: Eamon Tracey
+  description: A minimal Ansible role
+  platforms:
+    - name: Fedora
+      versions: all
